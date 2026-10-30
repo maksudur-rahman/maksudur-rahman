@@ -316,14 +316,14 @@ Flutter plugin for secure, low-latency **HLS** live streaming on Android & iOS �
 
 ## 📌 Open-Source Projects
 
-<p align="center">
-  <a href="https://github.com/maksudur-rahman/convay-hls-player"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maksudur-rahman&repo=convay-hls-player&theme=tokyonight&hide_border=true" alt="convay-hls-player"/></a>
-  <a href="https://github.com/maksudur-rahman/flutter-chat-app-firebase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maksudur-rahman&repo=flutter-chat-app-firebase&theme=tokyonight&hide_border=true" alt="flutter-chat-app-firebase"/></a>
-  <a href="https://github.com/maksudur-rahman/Car-Wash-Mobile"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maksudur-rahman&repo=Car-Wash-Mobile&theme=tokyonight&hide_border=true" alt="Car-Wash-Mobile"/></a>
-  <a href="https://github.com/maksudur-rahman/vehicle-speed-check-from-input-video-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maksudur-rahman&repo=vehicle-speed-check-from-input-video-python&theme=tokyonight&hide_border=true" alt="vehicle-speed-check"/></a>
-  <a href="https://github.com/maksudur-rahman/object-detection-using-SIFT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maksudur-rahman&repo=object-detection-using-SIFT&theme=tokyonight&hide_border=true" alt="object-detection-using-SIFT"/></a>
-  <a href="https://github.com/maksudur-rahman/maksudur-rahman.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maksudur-rahman&repo=maksudur-rahman.github.io&theme=tokyonight&hide_border=true" alt="portfolio"/></a>
-</p>
+| Project | Description | Tech |
+|---|---|---|
+| 📺 [**convay-hls-player**](https://github.com/maksudur-rahman/convay-hls-player) | Flutter plugin for secure, low-latency HLS live streaming on Android & iOS | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) |
+| 💬 [**flutter-chat-app-firebase**](https://github.com/maksudur-rahman/flutter-chat-app-firebase) | Real-time chat app built with Flutter & Firebase | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
+| 🚗 [**Car-Wash-Mobile**](https://github.com/maksudur-rahman/Car-Wash-Mobile) | Mobile app for booking & managing on-demand car wash services | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| 🚦 [**vehicle-speed-check**](https://github.com/maksudur-rahman/vehicle-speed-check-from-input-video-python) | Vehicle speed detection from video input | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![dlib](https://img.shields.io/badge/-dlib-008000) |
+| 🔍 [**object-detection-using-SIFT**](https://github.com/maksudur-rahman/object-detection-using-SIFT) | Object detection with OpenCV & SIFT feature extraction | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) |
+| 🌐 [**maksudur-rahman.github.io**](https://github.com/maksudur-rahman/maksudur-rahman.github.io) | Personal portfolio website | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) |
 
 **Open-source contributions:** [Jitsi Meet](https://github.com/jitsi/jitsi-meet) (mobile apps & SDK) · [Element X Android](https://github.com/element-hq/element-x-android) · [Element X iOS](https://github.com/element-hq/element-x-ios) · [Element Call](https://github.com/element-hq/element-call) · [OpenSRP](https://github.com/opensrp)
 
@@ -353,7 +353,7 @@ Flutter plugin for secure, low-latency **HLS** live streaming on Android & iOS �
   <img src="https://streak-stats.demolab.com?user=maksudur-rahman&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maksudur-rahman&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph"/>
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="100%" alt="productive time"/>
 </p>
 
 ### 🐍 Contribution Snake
