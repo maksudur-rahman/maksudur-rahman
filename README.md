@@ -353,7 +353,7 @@ Flutter plugin for secure, low-latency **HLS** live streaming on Android & iOS â
   <img src="https://streak-stats.demolab.com?user=maksudur-rahman&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak"/>
 </p>
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="100%" alt="productive time"/>
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" height="180" alt="productive time"/>
 </p>
 
 ### ğŸ Contribution Snake
